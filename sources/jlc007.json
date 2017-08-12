@@ -1,0 +1,2774 @@
+{
+"name": "Conrad Lotz",
+"avater": "https://avatars0.githubusercontent.com/u/1439853?v=3",
+"progress": [
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Learn how Free Code Camp Works",
+"title": "Learn how Free Code Camp Works",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Create a GitHub Account and Join our Chat Rooms",
+"title": "Create a GitHub Account and Join our Chat Rooms",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Configure your Profile",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Read Coding News on our Medium Publication",
+"title": "Read Coding News on our Medium Publication",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Watch Coding Videos on our YouTube Channel",
+"title": "Watch Coding Videos on our YouTube Channel",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Getting Started",
+"subsection": "Join the Free Code Camp Community",
+"maptitle": "Learn What to Do If You Get Stuck",
+"title": "Learn What to Do If You Get Stuck",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Say Hello to HTML Elements",
+"title": "Say Hello to HTML Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Headline with the h2 Element",
+"title": "Headline with the h2 Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Inform with the Paragraph Element",
+"title": "Inform with the Paragraph Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Uncomment HTML",
+"title": "Uncomment HTML",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Comment out HTML",
+"title": "Comment out HTML",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Fill in the Blank with Placeholder Text",
+"title": "Fill in the Blank with Placeholder Text",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Delete HTML Elements",
+"title": "Delete HTML Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Change the Color of Text",
+"title": "Change the Color of Text",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use CSS Selectors to Style Elements",
+"title": "Use CSS Selectors to Style Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use a CSS Class to Style an Element",
+"title": "Use a CSS Class to Style an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Style Multiple Elements with a CSS Class",
+"title": "Style Multiple Elements with a CSS Class",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Change the Font Size of an Element",
+"title": "Change the Font Size of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Set the Font Family of an Element",
+"title": "Set the Font Family of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Import a Google Font",
+"title": "Import a Google Font",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Specify How Fonts Should Degrade",
+"title": "Specify How Fonts Should Degrade",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Images to your Website",
+"title": "Add Images to your Website",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Size your Images",
+"title": "Size your Images",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Borders Around your Elements",
+"title": "Add Borders Around your Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Rounded Corners with a Border Radius",
+"title": "Add Rounded Corners with a Border Radius",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Make Circular Images with a Border Radius",
+"title": "Make Circular Images with a Border Radius",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Link to External Pages with Anchor Elements",
+"title": "Link to External Pages with Anchor Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Nest an Anchor Element within a Paragraph",
+"title": "Nest an Anchor Element within a Paragraph",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Make Dead Links using the Hash Symbol",
+"title": "Make Dead Links using the Hash Symbol",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Turn an Image into a Link",
+"title": "Turn an Image into a Link",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create a Bulleted Unordered List",
+"title": "Create a Bulleted Unordered List",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create an Ordered List",
+"title": "Create an Ordered List",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create a Text Field",
+"title": "Create a Text Field",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Placeholder Text to a Text Field",
+"title": "Add Placeholder Text to a Text Field",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create a Form Element",
+"title": "Create a Form Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add a Submit Button to a Form",
+"title": "Add a Submit Button to a Form",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use HTML5 to Require a Field",
+"title": "Use HTML5 to Require a Field",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create a Set of Radio Buttons",
+"title": "Create a Set of Radio Buttons",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Create a Set of Checkboxes",
+"title": "Create a Set of Checkboxes",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Check Radio Buttons and Checkboxes by Default",
+"title": "Check Radio Buttons and Checkboxes by Default",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Nest Many Elements within a Single Div Element",
+"title": "Nest Many Elements within a Single Div Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Give a Background Color to a Div Element",
+"title": "Give a Background Color to a Div Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Set the ID of an Element",
+"title": "Set the ID of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use an ID Attribute to Style an Element",
+"title": "Use an ID Attribute to Style an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Adjusting the Padding of an Element",
+"title": "Adjusting the Padding of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Adjust the Margin of an Element",
+"title": "Adjust the Margin of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add a Negative Margin to an Element",
+"title": "Add a Negative Margin to an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Different Padding to Each Side of an Element",
+"title": "Add Different Padding to Each Side of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Add Different Margins to Each Side of an Element",
+"title": "Add Different Margins to Each Side of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use Clockwise Notation to Specify the Padding of an Element",
+"title": "Use Clockwise Notation to Specify the Padding of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use Clockwise Notation to Specify the Margin of an Element",
+"title": "Use Clockwise Notation to Specify the Margin of an Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Style the HTML Body Element",
+"title": "Style the HTML Body Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Inherit Styles from the Body Element",
+"title": "Inherit Styles from the Body Element",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Prioritize One Style Over Another",
+"title": "Prioritize One Style Over Another",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Override Styles in Subsequent CSS",
+"title": "Override Styles in Subsequent CSS",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Override Class Declarations by Styling ID Attributes",
+"title": "Override Class Declarations by Styling ID Attributes",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Override Class Declarations with Inline Styles",
+"title": "Override Class Declarations with Inline Styles",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Override All Other Styles by using Important",
+"title": "Override All Other Styles by using Important",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use Hex Code for Specific Colors",
+"title": "Use Hex Code for Specific Colors",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use Hex Code to Mix Colors",
+"title": "Use Hex Code to Mix Colors",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use Abbreviated Hex Code",
+"title": "Use Abbreviated Hex Code",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use RGB values to Color Elements",
+"title": "Use RGB values to Color Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "HTML5 and CSS",
+"maptitle": "Use RGB to Mix Colors",
+"title": "Use RGB to Mix Colors",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Use Responsive Design with Bootstrap Fluid Containers",
+"title": "Use Responsive Design with Bootstrap Fluid Containers",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Make Images Mobile Responsive",
+"title": "Make Images Mobile Responsive",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Center Text with Bootstrap",
+"title": "Center Text with Bootstrap",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Bootstrap Button",
+"title": "Create a Bootstrap Button",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Block Element Bootstrap Button",
+"title": "Create a Block Element Bootstrap Button",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Taste the Bootstrap Button Color Rainbow",
+"title": "Taste the Bootstrap Button Color Rainbow",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Call out Optional Actions with Button Info",
+"title": "Call out Optional Actions with Button Info",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Warn your Users of a Dangerous Action",
+"title": "Warn your Users of a Dangerous Action",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Use the Bootstrap Grid to Put Elements Side By Side",
+"title": "Use the Bootstrap Grid to Put Elements Side By Side",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Ditch Custom CSS for Bootstrap",
+"title": "Ditch Custom CSS for Bootstrap",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Use Spans for Inline Elements",
+"title": "Use Spans for Inline Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Custom Heading",
+"title": "Create a Custom Heading",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Add Font Awesome Icons to our Buttons",
+"title": "Add Font Awesome Icons to our Buttons",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Add Font Awesome Icons to all of our Buttons",
+"title": "Add Font Awesome Icons to all of our Buttons",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Responsively Style Radio Buttons",
+"title": "Responsively Style Radio Buttons",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Responsively Style Checkboxes",
+"title": "Responsively Style Checkboxes",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Style Text Inputs as Form Controls",
+"title": "Style Text Inputs as Form Controls",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Line up Form Elements Responsively with Bootstrap",
+"title": "Line up Form Elements Responsively with Bootstrap",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Bootstrap Headline",
+"title": "Create a Bootstrap Headline",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "House our page within a Bootstrap Container Fluid Div",
+"title": "House our page within a Bootstrap Container Fluid Div",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Bootstrap Row",
+"title": "Create a Bootstrap Row",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Split your Bootstrap Row",
+"title": "Split your Bootstrap Row",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create Bootstrap Wells",
+"title": "Create Bootstrap Wells",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Add Elements within your Bootstrap Wells",
+"title": "Add Elements within your Bootstrap Wells",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Apply the Default Bootstrap Button Style",
+"title": "Apply the Default Bootstrap Button Style",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Create a Class to Target with jQuery Selectors",
+"title": "Create a Class to Target with jQuery Selectors",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Add ID Attributes to Bootstrap Elements",
+"title": "Add ID Attributes to Bootstrap Elements",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Label Bootstrap Wells",
+"title": "Label Bootstrap Wells",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Give Each Element a Unique ID",
+"title": "Give Each Element a Unique ID",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Label Bootstrap Buttons",
+"title": "Label Bootstrap Buttons",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Responsive Design with Bootstrap",
+"maptitle": "Use Comments to Clarify Code",
+"title": "Use Comments to Clarify Code",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Gear up for Success",
+"maptitle": "Join our Forum",
+"title": "Join our Forum",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Gear up for Success",
+"maptitle": "Join a Free Code Camp Group in Your City",
+"title": "Join a Free Code Camp Group in Your City",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Gear up for Success",
+"maptitle": "Join our LinkedIn Alumni Network",
+"title": "Join our LinkedIn Alumni Network",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Gear up for Success",
+"maptitle": "Become a Supporter",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Learn how Script Tags and Document Ready Work",
+"title": "Learn how Script Tags and Document Ready Work",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target HTML Elements with Selectors Using jQuery",
+"title": "Target HTML Elements with Selectors Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target Elements by Class Using jQuery",
+"title": "Target Elements by Class Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target Elements by ID Using jQuery",
+"title": "Target Elements by ID Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Delete your jQuery Functions",
+"title": "Delete your jQuery Functions",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target the same element with multiple jQuery Selectors",
+"title": "Target the same element with multiple jQuery Selectors",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Remove Classes from an element with jQuery",
+"title": "Remove Classes from an element with jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Change the CSS of an Element Using jQuery",
+"title": "Change the CSS of an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Disable an Element Using jQuery",
+"title": "Disable an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Change Text Inside an Element Using jQuery",
+"title": "Change Text Inside an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Remove an Element Using jQuery",
+"title": "Remove an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Use appendTo to Move Elements with jQuery",
+"title": "Use appendTo to Move Elements with jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Clone an Element Using jQuery",
+"title": "Clone an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target the Parent of an Element Using jQuery",
+"title": "Target the Parent of an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target the Children of an Element Using jQuery",
+"title": "Target the Children of an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target a Specific Child of an Element Using jQuery",
+"title": "Target a Specific Child of an Element Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Target Even Numbered Elements Using jQuery",
+"title": "Target Even Numbered Elements Using jQuery",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "jQuery",
+"maptitle": "Use jQuery to Modify the Entire Page",
+"title": "Use jQuery to Modify the Entire Page",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Front End Development Projects",
+"maptitle": "Get Set for our Front End Development Projects",
+"title": "Get Set for our Front End Development Projects",
+"completed": true,
+"date_completed": "Jun 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Front End Development Projects",
+"maptitle": "Build a Tribute Page",
+"title": "Build a Tribute Page",
+"completed": true,
+"date_completed": "Jun 23, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Front End Development Projects",
+"maptitle": "Build a Personal Portfolio Webpage",
+"title": "Build a Personal Portfolio Webpage",
+"completed": true,
+"date_completed": "Aug 03, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comment your JavaScript Code",
+"title": "Comment your JavaScript Code",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Declare JavaScript Variables",
+"title": "Declare JavaScript Variables",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Storing Values with the Assignment Operator",
+"title": "Storing Values with the Assignment Operator",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Initializing Variables with the Assignment Operator",
+"title": "Initializing Variables with the Assignment Operator",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Understanding Uninitialized Variables",
+"title": "Understanding Uninitialized Variables",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Understanding Case Sensitivity in Variables",
+"title": "Understanding Case Sensitivity in Variables",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Add Two Numbers with JavaScript",
+"title": "Add Two Numbers with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Subtract One Number from Another with JavaScript",
+"title": "Subtract One Number from Another with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Multiply Two Numbers with JavaScript",
+"title": "Multiply Two Numbers with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Divide One Number by Another with JavaScript",
+"title": "Divide One Number by Another with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Increment a Number with JavaScript",
+"title": "Increment a Number with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Decrement a Number with JavaScript",
+"title": "Decrement a Number with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Create Decimal Numbers with JavaScript",
+"title": "Create Decimal Numbers with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Multiply Two Decimals with JavaScript",
+"title": "Multiply Two Decimals with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Divide one Decimal by Another with JavaScript",
+"title": "Divide one Decimal by Another with JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Finding a Remainder in JavaScript",
+"title": "Finding a Remainder in JavaScript",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Compound Assignment With Augmented Addition",
+"title": "Compound Assignment With Augmented Addition",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Compound Assignment With Augmented Subtraction",
+"title": "Compound Assignment With Augmented Subtraction",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Compound Assignment With Augmented Multiplication",
+"title": "Compound Assignment With Augmented Multiplication",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Compound Assignment With Augmented Division",
+"title": "Compound Assignment With Augmented Division",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Convert Celsius to Fahrenheit",
+"title": "Convert Celsius to Fahrenheit",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Declare String Variables",
+"title": "Declare String Variables",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Escaping Literal Quotes in Strings",
+"title": "Escaping Literal Quotes in Strings",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Quoting Strings with Single Quotes",
+"title": "Quoting Strings with Single Quotes",
+"completed": true,
+"date_completed": "Jul 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Escape Sequences in Strings",
+"title": "Escape Sequences in Strings",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Concatenating Strings with Plus Operator",
+"title": "Concatenating Strings with Plus Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Concatenating Strings with the Plus Equals Operator",
+"title": "Concatenating Strings with the Plus Equals Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Constructing Strings with Variables",
+"title": "Constructing Strings with Variables",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Appending Variables to Strings",
+"title": "Appending Variables to Strings",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Find the Length of a String",
+"title": "Find the Length of a String",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Use Bracket Notation to Find the First Character in a String",
+"title": "Use Bracket Notation to Find the First Character in a String",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Understand String Immutability",
+"title": "Understand String Immutability",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Use Bracket Notation to Find the Nth Character in a String",
+"title": "Use Bracket Notation to Find the Nth Character in a String",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Use Bracket Notation to Find the Last Character in a String",
+"title": "Use Bracket Notation to Find the Last Character in a String",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Use Bracket Notation to Find the Nth-to-Last Character in a String",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Word Blanks",
+"title": "Word Blanks",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Store Multiple Values in one Variable using JavaScript Arrays",
+"title": "Store Multiple Values in one Variable using JavaScript Arrays",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Nest one Array within Another Array",
+"title": "Nest one Array within Another Array",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Access Array Data with Indexes",
+"title": "Access Array Data with Indexes",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Modify Array Data With Indexes",
+"title": "Modify Array Data With Indexes",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Access Multi-Dimensional Arrays With Indexes",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Manipulate Arrays With push",
+"title": "Manipulate Arrays With push",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Manipulate Arrays With pop",
+"title": "Manipulate Arrays With pop",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Manipulate Arrays With shift",
+"title": "Manipulate Arrays With shift",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Manipulate Arrays With unshift",
+"title": "Manipulate Arrays With unshift",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Shopping List",
+"title": "Shopping List",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Write Reusable JavaScript with Functions",
+"title": "Write Reusable JavaScript with Functions",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Passing Values to Functions with Arguments",
+"title": "Passing Values to Functions with Arguments",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Global Scope and Functions",
+"title": "Global Scope and Functions",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Local Scope and Functions",
+"title": "Local Scope and Functions",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Global vs. Local Scope in Functions",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Return a Value from a Function with Return",
+"title": "Return a Value from a Function with Return",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Assignment with a Returned Value",
+"title": "Assignment with a Returned Value",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Stand in Line",
+"title": "Stand in Line",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Understanding Boolean Values",
+"title": "Understanding Boolean Values",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Use Conditional Logic with If Statements",
+"title": "Use Conditional Logic with If Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Equality Operator",
+"title": "Comparison with the Equality Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Strict Equality Operator",
+"title": "Comparison with the Strict Equality Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Inequality Operator",
+"title": "Comparison with the Inequality Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Strict Inequality Operator",
+"title": "Comparison with the Strict Inequality Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Greater Than Operator",
+"title": "Comparison with the Greater Than Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Greater Than Or Equal To Operator",
+"title": "Comparison with the Greater Than Or Equal To Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Less Than Operator",
+"title": "Comparison with the Less Than Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparison with the Less Than Or Equal To Operator",
+"title": "Comparison with the Less Than Or Equal To Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparisons with the Logical And Operator",
+"title": "Comparisons with the Logical And Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Comparisons with the Logical Or Operator",
+"title": "Comparisons with the Logical Or Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Introducing Else Statements",
+"title": "Introducing Else Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Introducing Else If Statements",
+"title": "Introducing Else If Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Logical Order in If Else Statements",
+"title": "Logical Order in If Else Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Chaining If Else Statements",
+"title": "Chaining If Else Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Golf Code",
+"title": "Golf Code",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Selecting from many options with Switch Statements",
+"title": "Selecting from many options with Switch Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Adding a default option in Switch statements",
+"title": "Adding a default option in Switch statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Multiple Identical Options in Switch Statements",
+"title": "Multiple Identical Options in Switch Statements",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Replacing If Else Chains with Switch",
+"title": "Replacing If Else Chains with Switch",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Returning Boolean Values from Functions",
+"title": "Returning Boolean Values from Functions",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Return Early Pattern for Functions",
+"title": "Return Early Pattern for Functions",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Counting Cards",
+"title": "Counting Cards",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Build JavaScript Objects",
+"title": "Build JavaScript Objects",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Accessing Objects Properties with the Dot Operator",
+"title": "Accessing Objects Properties with the Dot Operator",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Accessing Objects Properties with Bracket Notation",
+"title": "Accessing Objects Properties with Bracket Notation",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Accessing Objects Properties with Variables",
+"title": "Accessing Objects Properties with Variables",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Updating Object Properties",
+"title": "Updating Object Properties",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Add New Properties to a JavaScript Object",
+"title": "Add New Properties to a JavaScript Object",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Delete Properties from a JavaScript Object",
+"title": "Delete Properties from a JavaScript Object",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Using Objects for Lookups",
+"title": "Using Objects for Lookups",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Testing Objects for Properties",
+"title": "Testing Objects for Properties",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Manipulating Complex Objects",
+"title": "Manipulating Complex Objects",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Accessing Nested Objects",
+"title": "Accessing Nested Objects",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Accessing Nested Arrays",
+"title": "Accessing Nested Arrays",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Iterate with JavaScript For Loops",
+"title": "Iterate with JavaScript For Loops",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Iterate Odd Numbers With a For Loop",
+"title": "Iterate Odd Numbers With a For Loop",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Count Backwards With a For Loop",
+"title": "Count Backwards With a For Loop",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Iterate Through an Array with a For Loop",
+"title": "Iterate Through an Array with a For Loop",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Nesting For Loops",
+"title": "Nesting For Loops",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Iterate with JavaScript While Loops",
+"title": "Iterate with JavaScript While Loops",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Profile Lookup",
+"title": "Profile Lookup",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Generate Random Fractions with JavaScript",
+"title": "Generate Random Fractions with JavaScript",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Generate Random Whole Numbers with JavaScript",
+"title": "Generate Random Whole Numbers with JavaScript",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Generate Random Whole Numbers within a Range",
+"title": "Generate Random Whole Numbers within a Range",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Sift through Text with Regular Expressions",
+"title": "Sift through Text with Regular Expressions",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Find Numbers with Regular Expressions",
+"title": "Find Numbers with Regular Expressions",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Find Whitespace with Regular Expressions",
+"title": "Find Whitespace with Regular Expressions",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic JavaScript",
+"maptitle": "Invert Regular Expression Matches with JavaScript",
+"title": "Invert Regular Expression Matches with JavaScript",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Declare JavaScript Objects as Variables",
+"title": "Declare JavaScript Objects as Variables",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Construct JavaScript Objects with Functions",
+"title": "Construct JavaScript Objects with Functions",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Make Instances of Objects with a Constructor Function",
+"title": "Make Instances of Objects with a Constructor Function",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Make Unique Objects by Passing Parameters to our Constructor",
+"title": "Make Unique Objects by Passing Parameters to our Constructor",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Make Object Properties Private",
+"title": "Make Object Properties Private",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Iterate over Arrays with .map",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Condense arrays with .reduce",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Filter Arrays with .filter",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Sort Arrays with .sort",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Reverse Arrays with .reverse",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Concatenate Arrays with .concat",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Split Strings with .split",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Object Oriented and Functional Programming",
+"maptitle": "Join Strings with .join",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Get Set for our Algorithm Challenges",
+"title": "Get Set for our Algorithm Challenges",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Reverse a String",
+"title": "Reverse a String",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Factorialize a Number",
+"title": "Factorialize a Number",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Check for Palindromes",
+"title": "Check for Palindromes",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Find the Longest Word in a String",
+"title": "Find the Longest Word in a String",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Title Case a Sentence",
+"title": "Title Case a Sentence",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Return Largest Numbers in Arrays",
+"title": "Return Largest Numbers in Arrays",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Confirm the Ending",
+"title": "Confirm the Ending",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Repeat a string repeat a string",
+"title": "Repeat a string repeat a string",
+"completed": true,
+"date_completed": "Jul 08, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Truncate a string",
+"title": "Truncate a string",
+"completed": true,
+"date_completed": "Jul 09, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Chunky Monkey",
+"title": "Chunky Monkey",
+"completed": true,
+"date_completed": "Jul 09, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Slasher Flick",
+"title": "Slasher Flick",
+"completed": true,
+"date_completed": "Jul 09, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Mutations",
+"title": "Mutations",
+"completed": true,
+"date_completed": "Jul 09, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Falsy Bouncer",
+"title": "Falsy Bouncer",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Seek and Destroy",
+"title": "Seek and Destroy",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Where do I belong",
+"title": "Where do I belong",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Basic Algorithm Scripting",
+"maptitle": "Caesars Cipher",
+"title": "Caesars Cipher",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Trigger Click Events with jQuery",
+"title": "Trigger Click Events with jQuery",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Change Text with Click Events",
+"title": "Change Text with Click Events",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Get JSON with the jQuery getJSON Method",
+"title": "Get JSON with the jQuery getJSON Method",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Convert JSON Data to HTML",
+"title": "Convert JSON Data to HTML",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Render Images from Data Sources",
+"title": "Render Images from Data Sources",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Prefilter JSON",
+"title": "Prefilter JSON",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "JSON APIs and Ajax",
+"maptitle": "Get Geolocation Data",
+"title": "Get Geolocation Data",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Front End Development Projects",
+"maptitle": "Build a Random Quote Machine",
+"title": "Build a Random Quote Machine",
+"completed": true,
+"date_completed": "Jul 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Front End Development Projects",
+"maptitle": "Show the Local Weather",
+"title": "Show the Local Weather",
+"completed": true,
+"date_completed": "Jul 12, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Front End Development Projects",
+"maptitle": "Build a Wikipedia Viewer",
+"title": "Build a Wikipedia Viewer",
+"completed": true,
+"date_completed": "Jul 13, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Front End Development Projects",
+"maptitle": "Use the Twitch.tv JSON API",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Sum All Numbers in a Range",
+"title": "Sum All Numbers in a Range",
+"completed": true,
+"date_completed": "Jul 16, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Diff Two Arrays",
+"title": "Diff Two Arrays",
+"completed": true,
+"date_completed": "Jul 16, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Roman Numeral Converter",
+"title": "Roman Numeral Converter",
+"completed": true,
+"date_completed": "Aug 10, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Wherefore art thou",
+"title": "Wherefore art thou",
+"completed": true,
+"date_completed": "Aug 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Search and Replace",
+"title": "Search and Replace",
+"completed": true,
+"date_completed": "Aug 11, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Pig Latin",
+"title": "Pig Latin",
+"completed": true,
+"date_completed": "Aug 12, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "DNA Pairing",
+"title": "DNA Pairing",
+"completed": true,
+"date_completed": "Aug 12, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Missing letters",
+"title": "Missing letters",
+"completed": true,
+"date_completed": "Aug 12, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Boo who",
+"title": "Boo who",
+"completed": true,
+"date_completed": "Aug 12, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Sorted Union",
+"title": "Sorted Union",
+"completed": true,
+"date_completed": "Aug 13, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Convert HTML Entities",
+"title": "Convert HTML Entities",
+"completed": true,
+"date_completed": "Aug 13, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Spinal Tap Case",
+"title": "Spinal Tap Case",
+"completed": true,
+"date_completed": "Aug 13, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Sum All Odd Fibonacci Numbers",
+"title": "Sum All Odd Fibonacci Numbers",
+"completed": true,
+"date_completed": "Aug 13, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Sum All Primes",
+"title": "Sum All Primes",
+"completed": true,
+"date_completed": "Aug 15, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Smallest Common Multiple",
+"title": "Smallest Common Multiple",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Finders Keepers",
+"title": "Finders Keepers",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Drop it",
+"title": "Drop it",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Steamroller",
+"title": "Steamroller",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Binary Agents",
+"title": "Binary Agents",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Everything Be True",
+"title": "Everything Be True",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Intermediate Algorithm Scripting",
+"maptitle": "Arguments Optional",
+"title": "Arguments Optional",
+"completed": true,
+"date_completed": "Aug 21, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Validate US Telephone Numbers",
+"title": "Validate US Telephone Numbers",
+"completed": true,
+"date_completed": "Sep 06, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Record Collection",
+"title": "Record Collection",
+"completed": true,
+"date_completed": "Jul 07, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Symmetric Difference",
+"title": "Symmetric Difference",
+"completed": true,
+"date_completed": "Sep 27, 2016"
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Exact Change",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Inventory Update",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "No repeats please",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Make a Person",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Map the Debris",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Algorithm Scripting",
+"maptitle": "Pairwise",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Front End Development Projects",
+"maptitle": "Build a JavaScript Calculator",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Front End Development Projects",
+"maptitle": "Build a Pomodoro Clock",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Front End Development Projects",
+"maptitle": "Build a Tic Tac Toe Game",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Advanced Front End Development Projects",
+"maptitle": "Build a Simon Game",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Front End Development Certification",
+"subsection": "Claim Your Front End Development Certificate",
+"maptitle": "Claim Your Front End Development Certificate",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Sass",
+"maptitle": "Learn Sass Challenges",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React",
+"maptitle": "Learn React Challenges",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React Projects",
+"maptitle": "Build a Markdown Previewer",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React Projects",
+"maptitle": "Build a Camper Leaderboard",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React Projects",
+"maptitle": "Build a Recipe Box",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React Projects",
+"maptitle": "Build the Game of Life",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "React Projects",
+"maptitle": "Build a Roguelike Dungeon Crawler Game",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "D3",
+"maptitle": "Learn D3 Challenges",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Data Visualization Projects",
+"maptitle": "Visualize Data with a Bar Chart",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Data Visualization Projects",
+"maptitle": "Visualize Data with a Scatterplot Graph",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Data Visualization Projects",
+"maptitle": "Visualize Data with a Heat Map",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Data Visualization Projects",
+"maptitle": "Show National Contiguity with a Force Directed Graph",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Data Visualization Projects",
+"maptitle": "Map Data Across the Globe",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Data Visualization Certification",
+"subsection": "Claim Your Data Visualization Certificate",
+"maptitle": "Claim Your Data Visualization Certificate",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Automated Testing and Debugging",
+"maptitle": "Use the JavaScript Console",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Automated Testing and Debugging",
+"maptitle": "Using typeof",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Git",
+"maptitle": "Save your Code Revisions Forever with Git",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Node.js and Express.js",
+"maptitle": "Manage Packages with npm",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Node.js and Express.js",
+"maptitle": "Start a Node.js Server",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Node.js and Express.js",
+"maptitle": "Continue working with Node.js Servers",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Node.js and Express.js",
+"maptitle": "Finish working with Node.js Servers",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Node.js and Express.js",
+"maptitle": "Build Web Apps with Express.js",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "MongoDB",
+"maptitle": "Store Data in MongoDB",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "Get Set for our API Development Projects",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "Timestamp Microservice",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "Request Header Parser Microservice",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "URL Shortener Microservice",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "Image Search Abstraction Layer",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "API Projects",
+"maptitle": "File Metadata Microservice",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Get Set for our Dynamic Web Application Projects",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Build a Voting App",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Build a Nightlife Coordination App",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Chart the Stock Market",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Manage a Book Trading Club",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Dynamic Web Application Projects",
+"maptitle": "Build a Pinterest Clone",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Back End Development Certification",
+"subsection": "Claim Your Back End Development Certificate",
+"maptitle": "Claim Your Back End Development Certificate",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Full Stack Development Certification",
+"subsection": "Nonprofit Projects",
+"maptitle": "Greenfield Nonprofit Project #1",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Full Stack Development Certification",
+"subsection": "Nonprofit Projects",
+"maptitle": "Greenfield Nonprofit Project #2",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Full Stack Development Certification",
+"subsection": "Nonprofit Projects",
+"maptitle": "Legacy Code Nonprofit Project #1",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Full Stack Development Certification",
+"subsection": "Nonprofit Projects",
+"maptitle": "Legacy Code Nonprofit Project #2",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Full Stack Development Certification",
+"subsection": "Nonprofit Projects",
+"maptitle": "Claim your Full Stack Development Certification",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Coding Interview Training",
+"maptitle": "Soft Skill Training",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Coding Interview Training",
+"maptitle": "Critical Thinking Training",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Coding Interview Training",
+"maptitle": "Whiteboard Coding Training",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Mock Interviews",
+"maptitle": "Mock Interview #1",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Mock Interviews",
+"maptitle": "Mock Interview #2",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+},
+{
+"mainsection": "Coding Interview Preparation",
+"subsection": "Mock Interviews",
+"maptitle": "Mock Interview #3",
+"title": "Not Completed",
+"completed": false,
+"date_completed": ""
+}
+]
+}

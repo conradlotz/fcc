@@ -1,0 +1,58 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <ul class="list-group">
+                <li class="list-group-item"><a href="/web">Coders' Groups</a></li>
+                <li class="list-group-item list-group-item-primary"></li>
+                <li class="list-group-item list-group-item-secondary"></li>
+                <li class="list-group-item list-group-item-success"></li>
+                <li class="list-group-item list-group-item-danger"></li>
+                <li class="list-group-item list-group-item-warning"></li>
+                <li class="list-group-item list-group-item-info"></li>
+                <li class="list-group-item list-group-item-light"></li>
+                <li class="list-group-item list-group-item-dark"></li>
+            </ul>
+        </div>
+
+        <div class="col-md-8">
+            <div class="form-group">
+                <select padding placeholder="Select a Group" type="search" class="form-control select-table-filter" data-table="order-table">
+            <option>--Select a group--</option>
+            {{#each groups}}
+                <option value="{{this}}">{{this}}</option>
+            {{/each}}
+        </select>
+            </div>
+    
+   
+            <div class="table-responsive all-coders">
+                <table class="table order-table">
+                    <thead>
+                        <tr>
+                            <th class="hidden">Group</th>
+                            <th>Github Username</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Html & CSS</th>
+                            <th>JavaScript</th>
+                            <th>Last Active</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{#each coders}}
+                        <tr>
+                            <td class="hidden">{{this.group}}</td>
+                            <td><h5><span class="badge badge-default">{{this.username}}<span></h5></td>
+                    <td>{{this.firstname}}</td>
+                    <td>{{this.lastname}}</td>
+                    <td>{{this.web}}</td>
+                    <td>{{this.javascript}}</td>
+                    <td>{{this.lastdate}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+    </div>
+    </div>
+</div>

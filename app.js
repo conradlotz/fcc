@@ -9,7 +9,7 @@ var app = express();
 
 var mongo = require('mongodb');
 var monk = require('monk');
-var db = monk('localhost:27017/codex');
+var db = monk(process.env.mongo_db || configobject.databaseconnection);
 
 app.use(function (req, res, next) {
     req.db = db;
@@ -34,6 +34,6 @@ app.use('/sources', express.static(path.join(__dirname, 'sources')));
 app.use('/web', index);
 app.use('/', load);
 
-app.listen(4302);
+app.listen(process.env.PORT || 4302);
 console.log('Listening on port 4302');
 module.exports = app;

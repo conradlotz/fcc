@@ -12,9 +12,7 @@ var userobject = require('../models/user');
 var configobject = require('../config/config');
 var challengeobject = require('../models/challenge');
 
-var coursedetails = filehelper.readfile(configobject.coursefilelocation);
-
-var db = monk(configobject.databaseconnection);
+var db = monk(process.env.mongo_db || configobject.databaseconnection);
 
 var coursedetails = filehelper.readfile(configobject.coursefilelocation);
 

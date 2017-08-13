@@ -2,6 +2,7 @@ var express = require('express');
 var exphbs = require('express-handlebars');
 var index = require('./routes/index');
 var load = require('./routes/load');
+var configobject = require('./config/config');
 var mongoose = require('mongoose');
 var path = require('path');
 var cors = require('cors');

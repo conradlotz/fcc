@@ -42,16 +42,16 @@ function updatestats(req, res, next) {
             member.firstName = 'Gareth';
             member.lastName = 'Williams';
             member.githubUsername = 'GarethW1994';
-            */
+         
  
             var member = {};
             member.firstName = 'Janine';
             member.lastName = 'Ritchie';
             member.githubUsername = 'janine-code';
             getGroupStats(member); 
+               */
             
-            
-           /*  var groups = JSON.parse(response.body);
+            var groups = JSON.parse(response.body);
             groups.forEach(function (element) {
                 var group = { id: 0, name: '' };
                 group.id = element._id;
@@ -61,7 +61,7 @@ function updatestats(req, res, next) {
                     member.group = element.name;
                     getGroupStats(member);
                 });
-            }, this);   */
+            }, this);
         }
 
         

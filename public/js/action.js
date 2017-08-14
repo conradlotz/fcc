@@ -1,18 +1,29 @@
-function fetchdata()
+function fetchdata(url)
 {
-    UpdateStats("GET",config.appurl + "api/update");
-    document.getElementById('alert').style.display = "block";
-    document.getElementById('message').innerText = 'Stats updated!'
+    document.getElementById("btnUpdate").innerText = "Loading...";
+    document.getElementById("btnUpdate").setAttribute('disabled', true);
+    UpdateStats("GET",url + "api/update");
+    setTimeout(function(){
+        document.getElementById('alert').style.display = "block";
+        document.getElementById('message').innerText = 'Stats updated!'
+        location.reload();
+    },5000);
 }
 
-function resetstats()
+function resetstats(url)
 {
-    UpdateStats("POST",config.appurl + "api/reset");
-    document.getElementById('alert').style.display = "block";
-    document.getElementById('message').innerText = 'Stats reset completed. Please update stats again!'
+    document.getElementById("btnReset").innerText = "Loading...";
+    document.getElementById("btnReset").setAttribute('disabled', true);
+    UpdateStats("POST",url + "api/reset");
+    setTimeout(function(){
+        document.getElementById('alert').style.display = "block";
+        document.getElementById('message').innerText = 'Stats reset completed. Please update stats again!'
+        location.reload();
+    },3000);
 }
 
 function UpdateStats(method,url) {
+
     var request = new XMLHttpRequest();
     request.open(method, url , true); // false for synchronous request
     request.onload = function() {

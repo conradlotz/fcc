@@ -7,7 +7,7 @@ function fetchdata(url)
         document.getElementById('alert').style.display = "block";
         document.getElementById('message').innerText = 'Stats updated!'
         location.reload();
-    },5000);
+    },12000);
 }
 
 function resetstats(url)

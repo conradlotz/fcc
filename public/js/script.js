@@ -2,10 +2,11 @@
 	'use strict';
 
 	var LightTableFilter = (function(Arr) {
-
+		
     var _select;
 
 		function _onSelectEvent(e) {
+			document.getElementById('alert').style.display = "none";	
 			_select = e.target;
 			var tables = document.getElementsByClassName(_select.getAttribute('data-table'));
 			Arr.forEach.call(tables, function(table) {

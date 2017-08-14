@@ -18,9 +18,8 @@ var coursedetails = filehelper.readfile(configobject.coursefilelocation);
 
 var result = [];
 const coderschema = db.get('coder');
-const groupschema = db.get('group');
 
-function getGroups(req, res, next) {
+function updatestats(req, res, next) {
 
     var url = configobject.codexgroupsurl;
     var r = request.defaults();
@@ -43,9 +42,16 @@ function getGroups(req, res, next) {
             member.firstName = 'Gareth';
             member.lastName = 'Williams';
             member.githubUsername = 'GarethW1994';
-            */ 
-
-            var groups = JSON.parse(response.body);
+            */
+ 
+            var member = {};
+            member.firstName = 'Janine';
+            member.lastName = 'Ritchie';
+            member.githubUsername = 'janine-code';
+            getGroupStats(member); 
+            
+            
+           /*  var groups = JSON.parse(response.body);
             groups.forEach(function (element) {
                 var group = { id: 0, name: '' };
                 group.id = element._id;
@@ -55,9 +61,7 @@ function getGroups(req, res, next) {
                     member.group = element.name;
                     getGroupStats(member);
                 });
-            }, this); 
-
-            //groupschema.update({"name":"test1"},{"name":"test1"}, { upsert: true });
+            }, this);   */
         }
 
         
@@ -65,6 +69,15 @@ function getGroups(req, res, next) {
         res.send(JSON.stringify(userdetails, null, 3));
         grouplist = [];
     });
+}
+
+function resetstats(req,res,next)
+{
+    coderschema.drop();
+
+    res.setHeader('content-type', 'application/json');
+    res.send('Reset completed');
+    
 }
 
 function getGroupStats(member) {
@@ -86,6 +99,7 @@ function getGroupStats(member) {
 
             if($('.public-profile-img').html()=== null)
             {
+                userobject = {};
                 var doc = { group:member.group,username: member.githubUsername, firstname: member.firstName, lastname: member.lastName, image: userobject.profileImage, location: userobject.location, web: "-", javascript: "-", lastdate: "-" };
                 coderschema.update(doc, doc, { upsert: true });
                 return;
@@ -108,12 +122,14 @@ function getGroupStats(member) {
 
                 $('tr').filter(function (i, element) {
                     if (i === 0) { return true;}
-
+                    
                     challengeobject.title = $(this).children().first().text();
                     challengeobject.completed_at = $(this).children().eq(1).text();
                     challengeobject.status = 0;
-
                     userobject.completed.push(challengeobject);
+                    challengeobject = {};
+                    //console.log(challengeobject);
+                    
                 });
 
                 coursedetails.forEach(function (element) {
@@ -121,7 +137,9 @@ function getGroupStats(member) {
                     item.sections.forEach(function (section) {
 
                         var found = sectionhelper.matchsections(section, userobject);
-                    
+                        //console.log(userobject.firstname + ' ' + userobject.lastname);
+                        //console.log(userobject.completed);
+                        
                         if (found !== undefined) {
                             result.push(
                                 {
@@ -148,15 +166,17 @@ function getGroupStats(member) {
                     });
                 });
             });
-
+            
             var returnval = JSON.parse(getSubs(result));
+            result =[];
             var doc = { group:member.group,username: member.githubUsername, firstname: userobject.firstname, lastname: userobject.lastname, image: userobject.profileImage, location: userobject.location, web: returnval.web, javascript: returnval.javascript, lastdate: returnval.lastdate };
             coderschema.update(doc, doc, { upsert: true });
+            userobject = {};
                 
             })
         }
 
-        userobject = {};
+
         return 'done';
     });
 
@@ -232,4 +252,4 @@ function getSubSect() {
     return counters;
 }
 
-module.exports = { getGroups: getGroups }
+module.exports = { updatestats: updatestats, resetstats: resetstats}

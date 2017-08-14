@@ -1,16 +1,21 @@
-<div class="container-fluid">
+
+    <div id="alert" class="alert alert-success" role="alert">
+        <label id="message"></label>
+    </div>
+    <div class="progress" id="progressbar">
+        <div class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
     <div class="row">
         <div class="col-md-3">
             <ul class="list-group">
-                <li class="list-group-item"><a href="/web">Coders' Groups</a></li>
-                <li class="list-group-item list-group-item-primary"></li>
-                <li class="list-group-item list-group-item-secondary"></li>
-                <li class="list-group-item list-group-item-success"></li>
-                <li class="list-group-item list-group-item-danger"></li>
-                <li class="list-group-item list-group-item-warning"></li>
+                <li class="list-group-item list-group-item-info"><button onclick="fetchdata()" id="btnUpdate" class="btn btn-secondary">Update FCC Stats</button></li>
+                <li class="list-group-item list-group-item-info"><button onclick="resetstats()" id="btnReset" class="btn btn-secondary">Reset FCC Stats</button></li>
+                <!--li class="list-group-item list-group-item-info"></li>
                 <li class="list-group-item list-group-item-info"></li>
-                <li class="list-group-item list-group-item-light"></li>
-                <li class="list-group-item list-group-item-dark"></li>
+                <li class="list-group-item list-group-item-info"></li>
+                <li class="list-group-item list-group-item-info"></li>
+                <li class="list-group-item list-group-item-info"></li>
+                <li class="list-group-item list-group-item-info"></li-->
             </ul>
         </div>
 
@@ -26,7 +31,7 @@
     
    
             <div class="table-responsive all-coders">
-                <table class="table order-table">
+                <table class="table order-table" id="statstable">
                     <thead>
                         <tr>
                             <th class="hidden">Group</th>
@@ -55,4 +60,3 @@
     </div>
     </div>
     </div>
-</div>
